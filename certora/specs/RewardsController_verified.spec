@@ -766,3 +766,7 @@ rule checkGetUserAccruedRewards() {
 
 //     assert oldIndex_ == _oldIndex && newIndex_ == assert_uint256(_newIndex);
 // }
+
+rule test(){
+assert true;
+}
